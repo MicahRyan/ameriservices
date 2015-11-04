@@ -38,3 +38,18 @@
 //   "foundation/components/type",
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
+
+.fullwidth {
+	width: 100%;
+	margin: 0 auto;
+	max-width: initial;
+	padding: 0px;
+	background-image: url('../images/image-6.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.large-12 img {
+	margin-bottom: 15px;
+}
